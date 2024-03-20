@@ -1,0 +1,17 @@
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\bin\Debug\net8.0-windows\INTmb.exe
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\bin\Debug\net8.0-windows\INTmb.deps.json
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\bin\Debug\net8.0-windows\INTmb.runtimeconfig.json
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\bin\Debug\net8.0-windows\INTmb.dll
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\bin\Debug\net8.0-windows\INTmb.pdb
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.Form1.resources
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.AssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.dll
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\refint\INTmb.dll
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.pdb
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.genruntimeconfig.cache
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\ref\INTmb.dll
+C:\Users\EXCALIBUR\source\repos\INTmb\INTmb\obj\Debug\net8.0-windows\INTmb.Properties.Resources.resources
